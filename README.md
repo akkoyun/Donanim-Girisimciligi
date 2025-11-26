@@ -1,37 +1,22 @@
-# Donanım Girişimciliği
+# Donanım Girişimciliği – Ek Kaynaklar
 
-Bu repo, "Donanım Girişimciliği" kitabı için genel paylaşım deposudur.
+Bu repo, **Donanım Girişimciliği** kitabını okuyanlar için
+hazırlanmış ek dokümanları, şablonları ve checklist’leri içerir.
 
-## 📚 Kitap Hakkında
+## Neler bulacaksınız?
 
-Bu kitap, donanım tabanlı girişimcilik konularını ele almaktadır.
+- Bölüm bazlı klasörlerde:
+  - Pazar analizi, fiyatlama ve finansal model şablonları
+  - Prototipleme ve üretim için teknik checklist’ler
+  - Örnek sözleşme taslakları (NDA, tedarikçi vb.)
+  - Kitle fonlaması ve pazara giriş için planlama dokümanları
 
-## 📁 Repo Yapısı
+## Kullanım
 
-```
-├── Bölümler/          # Kitap bölümleri ve içerikleri
-├── Örnekler/          # Kod örnekleri ve uygulamalar
-├── Kaynaklar/         # Ek kaynaklar ve referanslar
-└── Görseller/         # Kitapta kullanılan görseller
-```
+Dokümanları özgürce indirebilir, kendi projelerinizde
+uyarlayabilirsiniz. Lütfen lisans dosyasına göz atın.
 
-## 📖 İçerik
+## Katkı
 
-Bu repoda kitap ile ilgili aşağıdaki materyalleri bulabilirsiniz:
-
-- Kitap bölümlerinin ek içerikleri
-- Kod örnekleri
-- Şema ve diyagramlar
-- Ek kaynaklar ve referanslar
-
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
-## 👤 Yazar
-
-**Mehmet Günce Akkoyun**
-
-## 🤝 Katkıda Bulunma
-
-Kitap içeriğine katkıda bulunmak isterseniz, lütfen bir issue açın veya pull request gönderin.
+Hata fark ederseniz, iyileştirme öneriniz varsa veya yeni bir
+şablon eklemek isterseniz, issue açabilir veya pull request gönderebilirsiniz.
